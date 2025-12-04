@@ -53,3 +53,7 @@ Documentación visual del prompting, consultar el siguiente video:
 NOTAS: La I.A. olvidó explicar cómo estructurar las carpetas, el siguiente video nos puede ser de utilidad:
 
 [![Video de estructuras de carpetas](https://img.youtube.com/vi/4DP8mMUjWA8/0.jpg)](https://youtube.com/shorts/4DP8mMUjWA8?si=AtC1mZvozs2Q655i)
+
+## ![CONCLUSION](https://img.shields.io/badge/CONCLUSION-Final-purple) CONCLUSIÓN
+
+Aprendí otra aproximación de entender la programación mediante la deconstrucción de arquetipos. Hacer código más legible, de solo una responsabilidad y modular para aplicarlo en proyectos futuros. 
