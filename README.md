@@ -48,7 +48,7 @@ Por último, se le solicitó generar un borrador portable a **Mermaid AI** para 
 [Diagrama hecho en Mermaid AI](https://www.mermaidchart.com/d/d17cca4d-d942-4445-98f1-fe3b7d3be66a)
 
 Documentación visual del prompting, consultar el siguiente video:  
-[Haz clic aquí para ver el video en Streamable](https://streamable.com/62zwbb)
+[Haz clic aquí para ver el video en Streamable](https://streamable.com/b27s22)
 
 NOTAS: La I.A. olvidó explicar cómo estructurar las carpetas, el siguiente video nos puede ser de utilidad:
 
